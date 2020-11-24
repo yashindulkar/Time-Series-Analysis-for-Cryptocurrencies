@@ -18,10 +18,34 @@
 
 ### ⚫️ Visual representation 
 
-❗️  Table for the change in various sectors
+❗️  Time Series Analysis Flow Chart
 
-![](https://github.com/yashindulkar/Comparative-Study-of-Covid-19/blob/master/Images/Table.PNG)
+![](https://github.com/yashindulkar/Time-Series-Analysis-for-Cryptocurrencies/blob/main/Images/Time%20Series.png)
 
-❗️  Pie Diagram 
+❗️  Bitcoin & Bitcoin Cash Training & Testing Data
 
-![](https://github.com/yashindulkar/Comparative-Study-of-Covid-19/blob/master/Images/Pie%20Diagram.PNG)
+![](https://github.com/yashindulkar/Time-Series-Analysis-for-Cryptocurrencies/blob/main/Images/BTC%20%26%20BCH.jpg)
+
+❗️  Ethereum & ChainLink Training & Testing Data
+
+![](https://github.com/yashindulkar/Time-Series-Analysis-for-Cryptocurrencies/blob/main/Images/ETH%20%26%20LINK.jpg)
+
+❗️  XRP Training & Testing Data & LSTM Model
+
+![](https://github.com/yashindulkar/Time-Series-Analysis-for-Cryptocurrencies/blob/main/Images/XRP%20%26%20Model.jpg)
+
+❗️  Bitcoin & Bitcoin Cash Actual vs Predicted
+
+![](https://github.com/yashindulkar/Time-Series-Analysis-for-Cryptocurrencies/blob/main/Images/BTC%20%26%20BCH%202.jpg)
+
+❗️  Ethereum & ChainLink Actual vs Predicted
+
+![](https://github.com/yashindulkar/Time-Series-Analysis-for-Cryptocurrencies/blob/main/Images/ETH%20%26%20LINK%202.jpg)
+
+❗️  Bitcoin & Bitcoin Cash Fbprophet Prediction
+
+![](https://github.com/yashindulkar/Time-Series-Analysis-for-Cryptocurrencies/blob/main/Images/BTC%20%26%20BCH%20FB.jpg)
+
+❗️  Ethereum & ChainLink Fbprophet Prediction 
+
+![](https://github.com/yashindulkar/Time-Series-Analysis-for-Cryptocurrencies/blob/main/Images/ETH%20%26%20LINK%20FB.jpg)
